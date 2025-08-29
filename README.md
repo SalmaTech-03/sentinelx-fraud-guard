@@ -1,13 +1,7 @@
 # 🛡️ SentinelX Fraud Guard: A Real-Time Fraud Detection Command Center
 
 This is an advanced, end-to-end machine learning project that demonstrates a complete workflow from data cleaning and model training to a live, interactive web application with explainable AI (XAI).
-
-**[Live Application Link](https://your-streamlit-app-url.streamlit.app/)** 👈 *(Replace this with your actual Streamlit app URL after deploying)*
-
-![SentinelX Fraud Guard Screenshot](https://i.imgur.com/your-screenshot-url.png) 👈 *(Optional: Add a screenshot URL here)*
-
 ---
-
 ## 🚀 Features
 
 *   **Live Transaction Monitoring:** A real-time dashboard that simulates and processes incoming transactions, flagging suspicious ones instantly.
