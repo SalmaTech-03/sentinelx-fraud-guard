@@ -1,0 +1,17 @@
+# requirements.txt
+pandas
+scikit-learn
+imblearn
+joblib
+streamlit
+fastapi
+uvicorn[standard]
+requests
+plotly
+shap
+matplotlib
+seaborn
+xgboost
+lightgbm
+catboost
+lime
