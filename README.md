@@ -17,16 +17,6 @@
 
 The entire system is built as a robust, all-in-one web application, showcasing a modern approach to building and deploying interactive AI-powered tools.
 
-</td>
-<td width="35%">
-
-<p align="center">
-  <img src="httpshttps://i.imgur.com/your-demo-gif-url.gif" alt="App Demo GIF" width="300">
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
