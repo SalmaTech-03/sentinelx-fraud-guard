@@ -1,6 +1,6 @@
 
 
-# 🛡️ Fraud Detection Command Center
+#  Fraud Detection Command Center
 ### *Real-Time Financial Surveillance & Explainable AI System*
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -14,18 +14,18 @@ The **Fraud Detection Command Center** is a state-of-the-art anomaly detection s
 
 ---
 
-## ⚡ System Capabilities
+##  System Capabilities
 
 | Feature | Description |
 | :--- | :--- |
-| **🚨 Live Telemetry** | Simulates a high-frequency transaction stream, detecting anomalies in milliseconds. |
-| **⚖️ Auto-Balancing** | Implements **SMOTE** (Synthetic Minority Over-sampling Technique) to conquer dataset imbalance, ensuring rare fraud cases aren't ignored. |
-| **🧠 Explainable AI** | Integrated **LIME engine** allows analysts to autopsy any transaction and see exactly which features drove the risk score. |
-| **🔬 Forensic Sandbox** | A dedicated investigation environment to stress-test the model with hypothetical transaction scenarios. |
+| ** Live Telemetry** | Simulates a high-frequency transaction stream, detecting anomalies in milliseconds. |
+| **Auto-Balancing** | Implements **SMOTE** (Synthetic Minority Over-sampling Technique) to conquer dataset imbalance, ensuring rare fraud cases aren't ignored. |
+| ** Explainable AI** | Integrated **LIME engine** allows analysts to autopsy any transaction and see exactly which features drove the risk score. |
+| ** Forensic Sandbox** | A dedicated investigation environment to stress-test the model with hypothetical transaction scenarios. |
 
 ---
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 This application runs on a streamlined, single-file architecture optimized for rapid prototyping and deployment.
 
@@ -54,7 +54,7 @@ graph TD
 
 ---
 
-## 🖥️ The Dashboard Experience
+##  The Dashboard Experience
 
 ### 1. The Watchtower (Live Monitoring)
 The left panel acts as a dedicated Watchtower. It processes the dataset in an infinite loop, simulating live banking traffic.
@@ -92,7 +92,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 The AI Stack
+##  The AI Stack
 
 We chose a specific stack to maximize **Precision** and **Recall** while maintaining interpretability.
 
@@ -102,19 +102,19 @@ We chose a specific stack to maximize **Precision** and **Recall** while maintai
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 fraud-command-center/
-├── app.py                 # 🧠 The Brain: UI, Training, and Inference logic in one
-├── requirements.txt       # 📦 Dependencies (Streamlit, LIME, Sklearn, Imblearn)
-├── bank_fraud_dataset.csv # 💾 The Data: Historical transaction records
-└── README.md              # 📄 Documentation
+├── app.py                 #  The Brain: UI, Training, and Inference logic in one
+├── requirements.txt       #  Dependencies (Streamlit, LIME, Sklearn, Imblearn)
+├── bank_fraud_dataset.csv #  The Data: Historical transaction records
+└── README.md              #  Documentation
 ```
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 *   [ ] **Dockerization:** Containerize for Kubernetes deployment.
 *   [ ] **Drift Detection:** Alert when live data distribution diverges from training data.
